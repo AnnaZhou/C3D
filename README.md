@@ -10,4 +10,4 @@ For more information about c3d, please refer to the [C3D project website](http:/
 For general questions about Caffe, please refer to the [BVLC project website](http://caffe.berkeleyvision.org) for all documentation.
 
 My local procedure to run this code (blog):
-https://annabrucewordpresscom.wordpress.com/2015/09/15/notes-on-c3d/
+http://annazhou.github.io/
